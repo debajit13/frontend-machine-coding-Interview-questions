@@ -1,0 +1,13 @@
+.outer {
+    border: 1px solid black;
+    border-radius: 13px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.inner {
+    background-color: red;
+    padding-left: 5px;
+    text-align: right;
+    padding-right: 5px;
+}
